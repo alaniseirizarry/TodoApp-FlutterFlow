@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525980526659",
+    "project_id": "to-do-gourza",
+    "storage_bucket": "to-do-gourza.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525980526659:android:9b311e4a7b1cadec8e8cf6",
+        "android_client_info": {
+          "package_name": "com.mycompany.todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANOQYjwWFU0Gq7zvnioE0J2ZZNCj6FnII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
