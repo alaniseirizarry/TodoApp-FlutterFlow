@@ -82,6 +82,8 @@ class _OnboardingWidgetState extends State<OnboardingWidget> {
                                   .headlineLarge
                                   .override(
                                     fontFamily: 'Inter',
+                                    color:
+                                        FlutterFlowTheme.of(context).secondary,
                                     letterSpacing: 0.0,
                                   ),
                             ),
